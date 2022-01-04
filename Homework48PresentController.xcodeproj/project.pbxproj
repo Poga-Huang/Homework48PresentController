@@ -9,21 +9,37 @@
 /* Begin PBXBuildFile section */
 		D60F214C27828ADF0037AEF0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F214B27828ADF0037AEF0 /* AppDelegate.swift */; };
 		D60F214E27828ADF0037AEF0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F214D27828ADF0037AEF0 /* SceneDelegate.swift */; };
-		D60F215027828ADF0037AEF0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F214F27828ADF0037AEF0 /* ViewController.swift */; };
 		D60F215327828ADF0037AEF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D60F215127828ADF0037AEF0 /* Main.storyboard */; };
 		D60F215527828AE30037AEF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D60F215427828AE30037AEF0 /* Assets.xcassets */; };
 		D60F215827828AE30037AEF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D60F215627828AE30037AEF0 /* LaunchScreen.storyboard */; };
+		D60F2160278290CD0037AEF0 /* WebListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F215F278290CD0037AEF0 /* WebListTableViewController.swift */; };
+		D60F2162278290E70037AEF0 /* WebItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F2161278290E70037AEF0 /* WebItemTableViewCell.swift */; };
+		D60F2164278293A50037AEF0 /* webAddress.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60F2163278293A50037AEF0 /* webAddress.swift */; };
+		D6D14DC72782C0EF0083F4F4 /* ActivityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D14DC62782C0EF0083F4F4 /* ActivityViewController.swift */; };
+		D6D14DC92782E8A00083F4F4 /* AlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D14DC82782E8A00083F4F4 /* AlertViewController.swift */; };
+		D6D14DCB2783019D0083F4F4 /* 夜曲.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = D6D14DCA2783019D0083F4F4 /* 夜曲.mp4 */; };
+		D6D14DCD278301C30083F4F4 /* AVPlayerTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D14DCC278301C30083F4F4 /* AVPlayerTestViewController.swift */; };
+		D6D14DD127842A130083F4F4 /* MFComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D14DD027842A130083F4F4 /* MFComposeViewController.swift */; };
+		D6D14DD327843BFA0083F4F4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6D14DD227843BFA0083F4F4 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D60F214827828ADF0037AEF0 /* Homework48PresentController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework48PresentController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D60F214B27828ADF0037AEF0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D60F214D27828ADF0037AEF0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D60F214F27828ADF0037AEF0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D60F215227828ADF0037AEF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D60F215427828AE30037AEF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D60F215727828AE30037AEF0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D60F215927828AE30037AEF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D60F215F278290CD0037AEF0 /* WebListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebListTableViewController.swift; sourceTree = "<group>"; };
+		D60F2161278290E70037AEF0 /* WebItemTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebItemTableViewCell.swift; sourceTree = "<group>"; };
+		D60F2163278293A50037AEF0 /* webAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webAddress.swift; sourceTree = "<group>"; };
+		D6D14DC62782C0EF0083F4F4 /* ActivityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityViewController.swift; sourceTree = "<group>"; };
+		D6D14DC82782E8A00083F4F4 /* AlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertViewController.swift; sourceTree = "<group>"; };
+		D6D14DCA2783019D0083F4F4 /* 夜曲.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "夜曲.mp4"; sourceTree = "<group>"; };
+		D6D14DCC278301C30083F4F4 /* AVPlayerTestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayerTestViewController.swift; sourceTree = "<group>"; };
+		D6D14DD027842A130083F4F4 /* MFComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MFComposeViewController.swift; sourceTree = "<group>"; };
+		D6D14DD227843BFA0083F4F4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +74,29 @@
 			children = (
 				D60F214B27828ADF0037AEF0 /* AppDelegate.swift */,
 				D60F214D27828ADF0037AEF0 /* SceneDelegate.swift */,
-				D60F214F27828ADF0037AEF0 /* ViewController.swift */,
 				D60F215127828ADF0037AEF0 /* Main.storyboard */,
+				D6D14DD227843BFA0083F4F4 /* ViewController.swift */,
+				D6D14DD027842A130083F4F4 /* MFComposeViewController.swift */,
+				D6D14DCC278301C30083F4F4 /* AVPlayerTestViewController.swift */,
+				D6D14DC82782E8A00083F4F4 /* AlertViewController.swift */,
+				D6D14DC62782C0EF0083F4F4 /* ActivityViewController.swift */,
+				D6D14DC52782AA970083F4F4 /* SFSafariViewController */,
 				D60F215427828AE30037AEF0 /* Assets.xcassets */,
 				D60F215627828AE30037AEF0 /* LaunchScreen.storyboard */,
 				D60F215927828AE30037AEF0 /* Info.plist */,
+				D6D14DCA2783019D0083F4F4 /* 夜曲.mp4 */,
 			);
 			path = Homework48PresentController;
+			sourceTree = "<group>";
+		};
+		D6D14DC52782AA970083F4F4 /* SFSafariViewController */ = {
+			isa = PBXGroup;
+			children = (
+				D60F2161278290E70037AEF0 /* WebItemTableViewCell.swift */,
+				D60F215F278290CD0037AEF0 /* WebListTableViewController.swift */,
+				D60F2163278293A50037AEF0 /* webAddress.swift */,
+			);
+			path = SFSafariViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,6 +160,7 @@
 				D60F215827828AE30037AEF0 /* LaunchScreen.storyboard in Resources */,
 				D60F215527828AE30037AEF0 /* Assets.xcassets in Resources */,
 				D60F215327828ADF0037AEF0 /* Main.storyboard in Resources */,
+				D6D14DCB2783019D0083F4F4 /* 夜曲.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +171,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D60F215027828ADF0037AEF0 /* ViewController.swift in Sources */,
+				D6D14DD327843BFA0083F4F4 /* ViewController.swift in Sources */,
+				D60F2164278293A50037AEF0 /* webAddress.swift in Sources */,
+				D6D14DC92782E8A00083F4F4 /* AlertViewController.swift in Sources */,
+				D6D14DC72782C0EF0083F4F4 /* ActivityViewController.swift in Sources */,
 				D60F214C27828ADF0037AEF0 /* AppDelegate.swift in Sources */,
+				D6D14DCD278301C30083F4F4 /* AVPlayerTestViewController.swift in Sources */,
+				D60F2162278290E70037AEF0 /* WebItemTableViewCell.swift in Sources */,
 				D60F214E27828ADF0037AEF0 /* SceneDelegate.swift in Sources */,
+				D6D14DD127842A130083F4F4 /* MFComposeViewController.swift in Sources */,
+				D60F2160278290CD0037AEF0 /* WebListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
